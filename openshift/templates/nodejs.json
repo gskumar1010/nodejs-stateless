@@ -214,16 +214,7 @@
                 },
                 "env": [
                 
-                "resources": {
-		              "limits": {
-			              "memory": "${MEMORY_LIMIT}",
-                    "cpu":"${CPU_LIMIT}"
-		              },
-                  "requests": {
-			              "memory": "${MEMORY_REQUEST}",
-                    "cpu":"${CPU_REQUEST}"
-		              }
-                }
+              
               ]
               }
             ]
